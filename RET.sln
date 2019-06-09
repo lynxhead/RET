@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RET", "RET\RET.csproj", "{993D508A-BF59-4A66-9A08-2991E1BE8DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993D508A-BF59-4A66-9A08-2991E1BE8DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993D508A-BF59-4A66-9A08-2991E1BE8DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993D508A-BF59-4A66-9A08-2991E1BE8DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993D508A-BF59-4A66-9A08-2991E1BE8DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B89B3B-261A-4E12-8E56-E138F263F82A}
+	EndGlobalSection
+EndGlobal

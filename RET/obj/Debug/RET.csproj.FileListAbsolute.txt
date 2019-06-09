@@ -1,0 +1,9 @@
+G:\GITKAREN\RET\RET\bin\Debug\RET.exe.config
+G:\GITKAREN\RET\RET\bin\Debug\RET.exe
+G:\GITKAREN\RET\RET\bin\Debug\RET.pdb
+G:\GITKAREN\RET\RET\obj\Debug\RET.csprojAssemblyReference.cache
+G:\GITKAREN\RET\RET\obj\Debug\RET.Properties.Resources.resources
+G:\GITKAREN\RET\RET\obj\Debug\RET.csproj.GenerateResource.cache
+G:\GITKAREN\RET\RET\obj\Debug\RET.csproj.CoreCompileInputs.cache
+G:\GITKAREN\RET\RET\obj\Debug\RET.exe
+G:\GITKAREN\RET\RET\obj\Debug\RET.pdb
